@@ -1,4 +1,4 @@
-# bmi_calci
+# BMI CALCI
 
 This is a BMI Calculator made with flutter with minimalistic UI.
 
